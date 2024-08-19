@@ -1,8 +1,8 @@
 @extends('layouts.app')
 @section('titulo')
-    Pagina principal
+    Pagina tienda
 @endsection
 
 @section('contenido')
-    Secondary 
+    Secondary tiends
 @endsection
